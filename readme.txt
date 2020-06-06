@@ -1,0 +1,2 @@
+begin campusfunding
+这是一个校园众筹项目
